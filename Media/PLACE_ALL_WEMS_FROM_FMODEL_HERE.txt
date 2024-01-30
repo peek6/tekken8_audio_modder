@@ -1,0 +1,1 @@
+Extract all wems from WwiseAudio/Media using Fmodel and place ALL the extracted wems in this directory.
