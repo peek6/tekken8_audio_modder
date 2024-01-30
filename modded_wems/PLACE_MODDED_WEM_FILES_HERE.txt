@@ -1,0 +1,1 @@
+stick your modded wem files in my_dir/modded_wems directory, with names EXACTLY matching the txtp filenames (not the wem IDs)
